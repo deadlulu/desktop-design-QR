@@ -1,0 +1,28 @@
+body {
+    background-color: #D5E1EF;
+    }
+
+h1 {
+    color: #1F2D44;
+    font-family: Outfit;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+p {
+    color: #888C97;
+    font-family: Outfit;
+}
+
+
+
+    .main {
+        background-color: white;
+        border-radius: 15px;
+        height: 500px;
+        margin: 100px auto;
+        width: 315px;
+        text-align: center;
+        padding: 25px;
+
+    }
