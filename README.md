@@ -1,2 +1,1 @@
-# desktop-design-QR
-# excercise: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub
+This is a challenge by Frontend Mentor - QR code component
